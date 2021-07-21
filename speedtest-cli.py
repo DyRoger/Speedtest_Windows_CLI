@@ -6,7 +6,6 @@ from datetime import datetime
 now = datetime.now()
 current_time = now.strftime("%H:%M:%S")
 # try:
-# 	os.system('cmd /k "dir"')
 # 	os.system('cmd /k "speedtest-cli"')
 # except:
 # 	print("Couldn't Execute")
