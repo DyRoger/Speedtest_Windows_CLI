@@ -7,5 +7,5 @@ After that open cmd and write: "speedtest-cli"
 to check work properly. 
 1. For store result run the file.
 2. If not to store result then comment
-   10-EOL & uncomment 4-8 line.
+   14-EOL & uncomment 8-12 line.
 
